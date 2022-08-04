@@ -3,22 +3,22 @@ const detectMob = () => window.innerWidth <= 768;
 const data = [
   {
     id: 'ebeb3b9a-4a52-4fea-bd33-8ff70824ef8b',
-    name: 'Frank Heys',
-    about: 'Curabitur in libero ut massa volutpat convallis. Morbi odio odio',
+    name: 'Alfred Kwadwo Boateng',
+    about: 'Software Engineer & Senior Dev',
     message:
-      'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.',
+      'Master in artficial intelligence and Ruby Developer.',
     img: 'img/speakers/1.webp',
   },
   {
     id: 'd28c9e17-7dd9-4bc0-8775-0e03fb93665d',
-    name: 'Devan Ropkins',
+    name: 'Akwaboah Isaac',
     about: 'Fusce posuere felis sed lacus. Morbi sem mauris',
     message: 'Fusce consequat. Nulla nisl. Nunc nisl.',
     img: 'img/speakers/2.webp',
   },
   {
     id: 'dc1a61d9-1a70-4ad9-ad62-13a123865cbf',
-    name: 'Corabelle Lambdon',
+    name: 'Osei Bonsu Isaac',
     about:
       'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula',
     message:
@@ -27,7 +27,7 @@ const data = [
   },
   {
     id: 'bfa8df75-7556-43d0-a147-7c3e6fb7777f',
-    name: 'Lynette Storms',
+    name: 'Angela Yuu',
     about:
       'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.',
     message:
@@ -36,17 +36,17 @@ const data = [
   },
   {
     id: '62c8e787-bcc3-40c3-b80f-9f0a90402a56',
-    name: 'Davide Laity',
+    name: 'Alaa Shaheen',
     about:
       'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.',
-    message: 'Quisque id justo sit amet sapien dignissim vestibulum.',
+    message: 'Middle Level UI & ux Designer.',
     img: 'img/speakers/5.webp',
   },
   {
     id: '2219ca0c-403d-42ac-ab30-00674c16b25c',
-    name: 'Ingrid Almon',
-    about: 'Phasellus in felis. Donec semper sapien a libero. Nam dui.',
-    message: 'Cum sociis natoque penatibus et magnis dis parturient montes',
+    name: 'Esther Gyasi',
+    about: 'Junior App developer with 3 years experience.',
+    message: 'Middle Level UI & ux Designer',
     img: 'img/speakers/6.webp',
   },
 ];
