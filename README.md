@@ -1,56 +1,63 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](img/project-img.webp)
 
-# Project Name
+# The Suayebi IT Project
 
-> Description the project.
-
+> HTML/CSS & JavaScript capstone project - from Microverse
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- JAVASCRIPT
+- SCSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+**To get a local copy up and running follow these simple example steps.**
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Node
+- Git
+- Code Editor
+
 ### Setup
+
+- Clone the repository
+- Change directory into the project folder
+- Open project with text editor to view changes
 
 ### Install
 
-### Usage
+- Install dev dependencies
+- If you are using vscode text editor, you can install [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+  - Then update your location of SCSS main file in `vscode` > `settings.json` file.
+  ```
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/dist/css"
+    }
+  ],
+  ```
+- Please make sure you are compiling scss to see the styles working
 
-### Run tests
+- Run the code using [live server](https://www.google.com/search?client=safari&rls=en&q=live+server&ie=UTF-8&oe=UTF-8)
 
-### Deployment
+## Deployment
 
+Webpage has been deployed to github pages
 
+## Author
 
-## Authors
+👤 **Afiamoah Samuel**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@afiamoah](https://github.com/afiamoah)
+- Twitter: [@afiamoah](https://twitter.com/afiamoah)
+- LinkedIn: [afiamoah](https://www.linkedin.com/in/afiamoah-samuel-216943157/)
 
 ## 🤝 Contributing
 
@@ -64,10 +71,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Project Original design idea by [Cindy Shin in Behance](https://creativecommons.org/licenses/by-nc/4.0/)
+- Inspiration from [Microverse Bootcamp](https://www.microverse.org)
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](/LICENSE) licensed.
