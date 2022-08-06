@@ -61,6 +61,11 @@
   width: 100%;
 }
 
+.last {
+  margin-top: 20px;
+  background-color: red;
+}
+
 @media only screen and (min-width: 768px) {
   .speakers {
     margin: 0 7rem;
@@ -108,5 +113,10 @@
   .view-more,
   .view-less {
     display: none;
+  }
+
+  .last {
+    margin-top: 20px;
+    background-color: red;
   }
 }
