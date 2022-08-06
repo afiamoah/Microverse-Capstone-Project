@@ -23,6 +23,7 @@ hr {
 }
 
 .secondary__hr {
+  margin: 0 auto;
   margin-top: 10px;
   display: flex;
   flex-direction: column;
@@ -31,7 +32,6 @@ hr {
   color: $secondary-color;
   border-bottom: 5px solid $secondary-color;
   width: 4rem;
-  margin: 0 auto;
 }
 
 .logo-img {
